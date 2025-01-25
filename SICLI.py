@@ -16,7 +16,7 @@ tabla_4_archivos    =   ["202401TABLA04","202402TABLA04","202403TABLA04","202404
 tabla_5_archivo =   ["Tabla 5_SICLI_2024"]#Archivos zip con formato txt requerido, no se debe considerar colocar el .zip(VALOR STRING)
 ad_seleccionadas = [2,8]  #Areas de demanda solicitadas por la empresa(VALORES ENTEROS)
 anio=2024 # Año de la data(VALOR ENTERO)
-bisiesto= 1   # 0 para no y 1 para si(VALOR BINARIO)
+bisiesto= 1   # 0 para no y 1 para si(VALOR BINARIO, en funcion de la anio ingresado)
 
 #================================================================================================
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
